@@ -1,2 +1,1 @@
-# PreCourse-Henry2
-Este un repositorio de prueba del modulo2 del Precourse de Henry
+Este es un repositorio de prueba y como clonar desde github a mi escritorio
